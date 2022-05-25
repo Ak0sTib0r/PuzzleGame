@@ -1,3 +1,3 @@
 # PuzzleGame
 
-Modules needed: pygame
+Modules needed: ursina, playsound
